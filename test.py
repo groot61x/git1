@@ -1,4 +1,3 @@
 # first try
-# add third line
-# add second line
+# from vscode
 print("bye world")
